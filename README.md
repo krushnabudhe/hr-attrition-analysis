@@ -3,6 +3,7 @@
 ## 📌 Project Overview
 This project analyzes employee attrition using SQL on the IBM HR Employee Attrition dataset.  
 The objective was to identify key factors contributing to employee turnover.
+Overall Attrition Rate: 16.12%
 
 ---
 
