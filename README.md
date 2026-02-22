@@ -47,7 +47,14 @@ The objective was to identify key factors contributing to employee turnover.
 
 ---
 
+## 📊 Dashboard Preview
+
+![HR Dashboard](hr_attrition_dashboard.png)
+
+
+
 ## 🚀 Author
 Krushna Budhe  
-Aspiring Data / BI Analyst
-<img width="738" height="486" alt="hr_attrition_dashboard" src="https://github.com/user-attachments/assets/0ca573c4-efcb-440b-9148-0a62334bc3e5" />
+Krushna Budhe  
+Data Analyst | SQL | Power BI | Excel  
+
